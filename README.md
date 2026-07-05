@@ -125,9 +125,8 @@ plant-disease-cnn-classification/
 ## 👤 Author
 
 **Bhrugu Vyas**  
-Senior Data Analyst - JP Morgan Chase
-
-MTech AI/ML — BITS Pilani WILP  
+Senior Data Analyst - JP Morgan Chase    
+| MTech AI/ML — BITS Pilani
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhruguvyas/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/bhruguvyas)
