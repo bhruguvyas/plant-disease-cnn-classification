@@ -126,6 +126,7 @@ plant-disease-cnn-classification/
 
 **Bhrugu Vyas**  
 Senior Data Analyst - JP Morgan Chase
+
 MTech AI/ML — BITS Pilani WILP  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhruguvyas/)
